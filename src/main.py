@@ -1,6 +1,6 @@
 '''
 Excel Image Art Generator
-
+ 
 Converts images to Excel color grids with configurable resolution using pixel averaging.
 '''
 

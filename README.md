@@ -4,12 +4,12 @@
 Converting images to pixel arts in excel
 
 ## 🛠 How to use
-`python src/excel_art.py [image path] [step]`
+`python src/main.py [image path] [step]`
 
 ## 📷 Examples 
-![output example](examples/output/res.xlsx)
+[output example](examples/output/res.xlsx)
 
-## 📦 Requirments 
+## 📦 Requirements 
 - Python 3.10+
 - Pillow
 - openpyxl
